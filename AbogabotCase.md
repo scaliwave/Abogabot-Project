@@ -19,6 +19,10 @@ ________________________________________________________________________________
 
 - Les gustaría incluir colores azul marino y blanco, pero aceptan sugerencias
 
-> ***En esta parte va el diagrama BPMN o de clases indicando el diagrama de flujo del negocio***
+## Diagrama de flujo del negocio
+
+> ***En esta parte va el diagrama BPMN o de clases indicando el flujo del negocio***
+
+
 
 
