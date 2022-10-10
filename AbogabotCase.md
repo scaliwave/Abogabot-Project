@@ -1,7 +1,7 @@
 # Descripcion del Caso
 
 Un despacho de abogados requiere un sitio web en el que se automatice la creacion de demandas por parte de sus clientes solicitantes, esto se hace a traves de un formulario en el cual se toman los datos de la solicitud. Una vez finalizada la solicitud, se procede con el pago. Efectuado este, se procede con la revision por parte del despacho para generar el documento legal correspondiente a la demanda.
-_________________________________________________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________________________________________________
 
 ## Analisis de Requerimientos
 
@@ -19,10 +19,20 @@ ________________________________________________________________________________
 
 - Les gustaría incluir colores azul marino y blanco, pero aceptan sugerencias
 
+_______________________________________________________________________________________________________________________________________________________________________
+
 ## Diagrama de flujo del negocio
 
-> ***En esta parte va el diagrama BPMN o de clases indicando el flujo del negocio***
+> ***En esta parte va el diagrama BPMN o de actividades indicando el flujo del negocio***
+_______________________________________________________________________________________________________________________________________________________________________
 
+### Explicacion del flujo
 
+Inicialmente se tiene una pagina de inicio o login de usuarios, si el usuario desea registrarse, se redirige a una nueva página con un formulario de registro.
+
+Para el regitro se debe tener en cuenta tres roles: 
+1. **Rol de solicitante** --> Persona particular que crea la demanda.
+2. **Rol de Abogado**     --> Abogado del despacho con opciones unicas dentro del sitio web.
+3. **Rol Administrador**  --> Persona encargada de adminsitrar el sitio con derechos especiales.
 
 
