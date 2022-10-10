@@ -26,13 +26,33 @@ ________________________________________________________________________________
 > ***En esta parte va el diagrama BPMN o de actividades indicando el flujo del negocio***
 _______________________________________________________________________________________________________________________________________________________________________
 
-### Explicacion del flujo
+### Explicación del flujo
 
-Inicialmente se tiene una pagina de inicio o login de usuarios, si el usuario desea registrarse, se redirige a una nueva página con un formulario de registro.
+***Inicialmente se tiene una pagina de inicio o login de usuarios, si el usuario desea registrarse, se redirige a una nueva página con un formulario de registro.***
 
-Para el regitro se debe tener en cuenta tres roles: 
-1. **Rol de solicitante** --> Persona particular que crea la demanda.
-2. **Rol de Abogado**     --> Abogado del despacho con opciones unicas dentro del sitio web.
-3. **Rol Administrador**  --> Persona encargada de adminsitrar el sitio con derechos especiales.
+Para el regitro se tendran en cuenta tres roles:
+1. **Rol de solicitante** → Persona particular que crea la demanda.
+2. **Rol de Abogado**     → Abogado del despacho con opciones unicas dentro del sitio web.
+3. **Rol Administrador**  → Persona encargada de adminsitrar el sitio con derechos especiales.
+
+Se manejarán los roles de acuerdo al correo registrado por parte de los usuarios
+
+***Una vez adentro, existirá una interfaz para cada tipo de usuario, detallada a continuación:***
+### Solicitante
+- Contará con un perfil donde podrá realizar cualquier tipo de cambio de datos personales, asi como también cerrar sesión.
+- Contará con una Opción para crear Nueva Demanda
+- Podrá Consultar el Estado de la Demanda con los comentarios referentes al proceso.
+- Tendrá un Chat para comunicarse con el abogado asesor
+- Tendrá una opcion para descargar su demanda en formato WORD una vez se haya dado la aceptación del abogado
+- Deberá contar con una formato para realizar pagos en línea.
+### Abogado
+- Contará con un perfil donde podrá realizar cualquier tipo de cambio de datos personales.
+- Tendra un sistema de notificación de Nueva Demanda donde se mostrará el nombre de la solicitud del cliente
+- Tendrá la posibilidad de actualizar el esatdo de la demanda y comentar los cambios necesarios para completarla 
+- Contará con un chat para mensajes con el cliente
+- Contará con un dashboard para ver el total de sus demandas con sus pagos 
+- Una vez aprobada la demanda, el sitio web debe permitir generar de forma automática el documento legal en formato Word para que el cliente la descargue.
+
+
 
 
