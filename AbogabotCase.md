@@ -1,9 +1,9 @@
-# Descripcion del Caso
+# Descripción del Caso
 
 Un despacho de abogados requiere un sitio web en el que se automatice la creacion de demandas por parte de sus clientes solicitantes, esto se hace a traves de un formulario en el cual se toman los datos de la solicitud. Una vez finalizada la solicitud, se procede con el pago. Efectuado este, se procede con la revision por parte del despacho para generar el documento legal correspondiente a la demanda.
 ______________________________________________________________________________________________________________________________________________________________________
 
-## Analisis de Requerimientos
+## Análisis de Requerimientos
 
 - El sitio web debe contener un registro tanto para administradores (despacho de abogados) como para solicitantes (personas demandantes)
 
@@ -28,7 +28,7 @@ ________________________________________________________________________________
 
 ### Explicación del flujo
 
-***Inicialmente se tiene una pagina de inicio o login de usuarios, si el usuario desea registrarse, se redirige a una nueva página con un formulario de registro.***
+***Inicialmente se tiene una página de inicio o login de usuarios, si el usuario desea registrarse, se redirige a una nueva página con un formulario de registro.***
 
 Para el regitro se tendran en cuenta tres roles:
 1. **Rol de solicitante** → Persona particular que crea la demanda.
@@ -52,7 +52,9 @@ Se manejarán los roles de acuerdo al correo registrado por parte de los usuario
 - Contará con un chat para mensajes con el cliente
 - Contará con un dashboard para ver el total de sus demandas con sus pagos 
 - Una vez aprobada la demanda, el sitio web debe permitir generar de forma automática el documento legal en formato Word para que el cliente la descargue.
-
+### Administrador
+- Contara con un perfil de usuario.
+- Tendrá permisos especiales como eliminar abogados del despacho, actualizar el formato de creación de demanda, etc.
 
 
 
