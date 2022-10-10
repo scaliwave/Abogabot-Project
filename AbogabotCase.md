@@ -5,8 +5,6 @@ ________________________________________________________________________________
 
 ## Analisis de Requerimientos
 
-### Descripcion general:
-
 - El sitio web debe contener un registro tanto para administradores (despacho de abogados) como para solicitantes (personas demandantes)
 
 - El sitio web debe notificar tanto al solicitante como al administrador durante todo el proceso de la creación de la demanda
@@ -21,11 +19,6 @@ ________________________________________________________________________________
 
 - Les gustaría incluir colores azul marino y blanco, pero aceptan sugerencias
 
-
-negrilla --> **hola**
-
-cursiva --> ***hola***
-
->esto seria una cita
+> ***En esta parte va el diagrama BPMN o de clases indicando el diagrama de flujo del negocio***
 
 
