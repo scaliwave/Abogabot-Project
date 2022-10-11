@@ -39,7 +39,7 @@ Se manejarán los roles de acuerdo al correo registrado por parte de los usuario
 
 ***Una vez adentro, existirá una interfaz para cada tipo de usuario, detallada a continuación:***
 ### Solicitante
-- Contará con un perfil donde podrá realizar cualquier tipo de cambio de datos personales, asi como también cerrar sesión.
+- Contará con un perfil donde podrá realizar cualquier tipo de cambio de datos personales.
 - Contará con una Opción para crear Nueva Demanda
 - Podrá Consultar el Estado de la Demanda con los comentarios referentes al proceso.
 - Tendrá un Chat para comunicarse con el abogado asesor
@@ -47,7 +47,7 @@ Se manejarán los roles de acuerdo al correo registrado por parte de los usuario
 - Deberá contar con una formato para realizar pagos en línea.
 ### Abogado
 - Contará con un perfil donde podrá realizar cualquier tipo de cambio de datos personales.
-- Tendra un sistema de notificación de Nueva Demanda donde se mostrará el nombre de la solicitud del cliente
+- Tendrá un sistema de notificación de Nueva Demanda donde se mostrará el nombre de la solicitud del cliente
 - Tendrá la posibilidad de actualizar el esatdo de la demanda y comentar los cambios necesarios para completarla 
 - Contará con un chat para mensajes con el cliente
 - Contará con un dashboard para ver el total de sus demandas con sus pagos 
