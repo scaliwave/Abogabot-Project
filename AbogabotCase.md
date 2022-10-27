@@ -44,6 +44,7 @@ Se manejarán los roles de acuerdo al correo registrado por parte de los usuario
 - Podrá Consultar el Estado de la Demanda con los comentarios referentes al proceso.
 - Tendrá un Chat para comunicarse con el abogado asesor
 - Tendrá una opcion para descargar su demanda en formato WORD una vez se haya dado la aceptación del abogado
+- Contara con una opción para corregir los datos de su demanda
 - Deberá contar con una formato para realizar pagos en línea.
 ### Abogado
 - Contará con un perfil donde podrá realizar cualquier tipo de cambio de datos personales.
