@@ -49,7 +49,7 @@ Se manejarán los roles de acuerdo al correo registrado por parte de los usuario
 ### Abogado
 - Contará con un perfil donde podrá realizar cualquier tipo de cambio de datos personales.
 - Tendrá un sistema de notificación de Nueva Demanda donde se mostrará el nombre de la solicitud del cliente
-- Tendrá la posibilidad de actualizar el esatdo de la demanda y comentar los cambios necesarios para completarla 
+- Tendrá la posibilidad de actualizar el estado de la demanda y comentar los cambios necesarios para completarla 
 - Contará con un chat para mensajes con el cliente
 - Contará con un dashboard para ver el total de sus demandas con sus pagos 
 - Una vez aprobada la demanda, el sitio web debe permitir generar de forma automática el documento legal en formato Word para que el cliente la descargue.
