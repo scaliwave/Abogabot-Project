@@ -23,7 +23,8 @@ ________________________________________________________________________________
 
 ## Diagrama de flujo del negocio
 
-> ***En esta parte va el diagrama BPMN o de actividades indicando el flujo del negocio***
+https://user-images.githubusercontent.com/89940115/199049211-a80bd81e-6d60-4560-bb12-165e6fe16317.svg
+
 _______________________________________________________________________________________________________________________________________________________________________
 
 ### Explicación del flujo
