@@ -32,7 +32,7 @@ ________________________________________________________________________________
 
 ***Inicialmente se tiene una página de inicio o login de usuarios, si el usuario desea registrarse, se redirige a una nueva página con un formulario de registro.***
 
-Para el regitro se tendran en cuenta tres roles:
+Para el ***regitro*** se tendran en cuenta tres roles:
 1. **Rol de solicitante** → Persona particular que crea la demanda.
 2. **Rol de Abogado**     → Abogado del despacho con opciones unicas dentro del sitio web.
 3. **Rol Administrador**  → Persona encargada de adminsitrar el sitio con derechos especiales.
@@ -56,7 +56,7 @@ Se manejarán los roles de acuerdo al correo registrado por parte de los usuario
 - Contará con un dashboard para ver el total de sus demandas con sus pagos 
 - Una vez aprobada la demanda, el sitio web debe permitir generar de forma automática el documento legal en formato Word para que el cliente la descargue.
 ### Administrador
-- Contara con un perfil de usuario.
+- Contará con un perfil de usuario.
 - Tendrá permisos especiales como eliminar abogados del despacho, actualizar el formato de creación de demanda, etc.
 
 
