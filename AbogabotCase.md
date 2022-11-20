@@ -3,7 +3,7 @@
 Un despacho de abogados requiere un sitio web en el que se automatice la creacion de demandas por parte de sus clientes solicitantes, esto se hace a traves de un formulario en el cual se toman los datos de la solicitud. Una vez finalizada la solicitud, se procede con el pago. Efectuado este, se procede con la revision por parte del despacho para generar el documento legal correspondiente a la demanda.
 ______________________________________________________________________________________________________________________________________________________________________
 
-## Análisis de Requerimientos
+## Requerimientos
 
 - El sitio web debe contener un registro tanto para administradores (despacho de abogados) como para solicitantes (personas demandantes)
 
@@ -18,6 +18,10 @@ ________________________________________________________________________________
 - La aplicación web debe ser responsive para verla desde el celular o PC
 
 - Les gustaría incluir colores azul marino y blanco, pero aceptan sugerencias
+_______________________________________________________________________________________________________________________________________________________________________
+
+## Toma de requerimientos
+A continuacion el <a href= https://github.com/scaliwave/Abogabot-Project/blob/main/1.-Requerimientos.doc>levantamento de requerimientos</a>
 
 _______________________________________________________________________________________________________________________________________________________________________
 
@@ -59,7 +63,7 @@ Se manejarán los roles de acuerdo al correo registrado por parte de los usuario
 - Contará con un perfil de usuario.
 - Tendrá permisos especiales como eliminar abogados del despacho, actualizar el formato de creación de demanda, etc.
 
-<a href= https://github.com/scaliwave/Abogabot-Project/blob/main/1.-Requerimientos.doc>levantamento de requerimientos</a>
+
 
   
 
