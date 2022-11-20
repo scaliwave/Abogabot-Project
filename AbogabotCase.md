@@ -21,7 +21,19 @@ ________________________________________________________________________________
 _______________________________________________________________________________________________________________________________________________________________________
 
 ## Toma de requerimientos
-A continuacion el <a href= https://github.com/scaliwave/Abogabot-Project/blob/main/1.-Requerimientos.doc>levantamento de requerimientos</a>
+
+En el siguiente link tendrás acceso al <a href= https://github.com/scaliwave/Abogabot-Project/blob/main/1.-Requerimientos.doc>levantamento de requerimientos</a>
+
+_______________________________________________________________________________________________________________________________________________________________________
+
+## Buyer persona
+
+En en el siguiente link encontrarás el <a href = https://github.com/scaliwave/Abogabot-Project/blob/main/2.-%20Buyer%20Persona.pdf> Buyer persona</a>
+
+_______________________________________________________________________________________________________________________________________________________________________
+
+## Publico Objetivo
+
 
 _______________________________________________________________________________________________________________________________________________________________________
 
@@ -63,9 +75,6 @@ Se manejarán los roles de acuerdo al correo registrado por parte de los usuario
 - Contará con un perfil de usuario.
 - Tendrá permisos especiales como eliminar abogados del despacho, actualizar el formato de creación de demanda, etc.
 
-
-
-  
 
   
 
