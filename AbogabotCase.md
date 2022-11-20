@@ -58,9 +58,9 @@ Se manejarán los roles de acuerdo al correo registrado por parte de los usuario
 ### Administrador
 - Contará con un perfil de usuario.
 - Tendrá permisos especiales como eliminar abogados del despacho, actualizar el formato de creación de demanda, etc.
-<body>
-  <a href= https://github.com/scaliwave/Abogabot-Project/blob/main/1.-Requerimientos.doc></a>
-</body>
+
+<a href= https://github.com/scaliwave/Abogabot-Project/blob/main/1.-Requerimientos.doc></a>
+
   
 
   
